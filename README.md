@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rafael Padre</h1>
-<h3 align="center">An enthusiastic Frontend web and mobile developer and passionate with software development</h3>
+<h1 align="center">Hello fellow dev 👋, I'm Rafael Padre</h1>
+<h3 align="center">An enthusiastic Frontend web and mobile developer from Angola🇦🇴 and passionate with software development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelwillen&label=Profile%20views&color=42b7ff&style=flat" alt="rafaelwillen" /> </p>
 
