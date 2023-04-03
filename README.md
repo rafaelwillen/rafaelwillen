@@ -7,9 +7,9 @@
 
 - 👯 Got a project that you need help? **Contact me anytime**
 
-- 💬 Ask me about **Anything related to Javascript or Typescript, Frontend with React, React Native**
+- 💬 Ask me about **anything related to Javascript or Typescript, Frontend with React, React Native**
 
-- 📫 How to reach me **rafaelpadre20@gmail.com**
+- 📫 You can contact me froom thee socials bellow or with my email: **rafaelpadre20@gmail.com**
 
 - 📄 Check my LinkedIn for my complete professional experience [https://www.linkedin.com/in/rafael-padre/](https://www.linkedin.com/in/rafael-padre/)
 
