@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelwillen&label=Profile%20views&color=42b7ff&style=flat" alt="rafaelwillen" /> </p>
 
-- 🌱 I’m currently learning **Next.js, Flutter, Backend Development with NodeJS**
+- 🌱 I’m currently learning **Next.js and NodeJS**
 
 - 👯 Got a project that you need help? **Contact me anytime**
 
 - 💬 Ask me about **anything related to Javascript or Typescript, Frontend with React, React Native**
 
-- 📫 You can contact me froom thee socials bellow or with my email: **rafaelpadre20@gmail.com**
+- 📫 You can contact me from the socials bellow or with my email: **rafaelpadre20@gmail.com**
 
 - 📄 Check my LinkedIn for my complete professional experience [https://www.linkedin.com/in/rafael-padre/](https://www.linkedin.com/in/rafael-padre/)
 
