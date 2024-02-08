@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelwillen&label=Profile%20views&color=42b7ff&style=flat" alt="rafaelwillen" /> </p>
 
-- 🌱 I’m currently learning **Next.js and NodeJS**
-
 - 👯 Got a project that you need help? **Contact me anytime**
 
 - 💬 Ask me about **anything related to Javascript or Typescript, Frontend with React, React Native**
